@@ -21,13 +21,12 @@
       "url": "mailto:hi@datnoc.com"
     }
   ],
-
   "navigation": [
     {
       "group": "Get Started",
       "pages": [
         "introduction",
-        "quickstart",
+        "Checkout",
         "development"
       ]
     },
@@ -41,21 +40,8 @@
         "essentials/navigation",
         "essentials/reusable-snippets"
       ]
-    },
-    {
-      "group": "API Documentation",
-      "pages": [
-        "api-reference/introduction"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
-      ]
     }
+   
   ],
   "footerSocials": {
     "x": "https://x.com/mintlify",
