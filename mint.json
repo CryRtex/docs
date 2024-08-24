@@ -5,7 +5,7 @@
     "dark": "/logo/Asset_1.png",
     "light": "/logo/Asset_1.png"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/logo/Asset_1.png",
   "colors": {
     "primary": "#0D9373",
     "light": "#07C983",
